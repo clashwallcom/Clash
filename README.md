@@ -79,7 +79,7 @@
 
 ### 扬帆云
 - **节点特色**：年付低至10元/月！高速IPLC专线机场，晚高峰不限速，解锁全球流媒体及AI工具！
-- **优惠购买**：[优惠购买链接](https://clashwall-github.affout.com/yangfanyun/){:target="_blank"}
+- **优惠购买**：[优惠购买链接](https://clashwall-github.affout.com/yangfanyun/)
 
 ### 疾风云
 - **节点特色**：年付低至9元/月！便宜IPLC专线机场，晚高峰不卡，完美解锁ChatGPT及流媒体！
