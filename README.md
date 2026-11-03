@@ -1,11 +1,11 @@
 <div align="center">
-  <a href="https://github.com/clashwallcom/Clash" title="Clash科学上网技术与资源下载">
+  <a href="https://github.com/clashwallcom/Clash" title="ClashWall 资源导航墙">
 <img width="150" height="150" alt="Clash" src="https://github.com/user-attachments/assets/aac7962f-70f4-4fab-ad5a-59dbadf6ba07" />
 
   </a>
-  <h1>Clash科学上网技术与资源下载 (2026年11月更新)</h1>
+  <h1>ClashWall 资源导航墙 (2026年11月更新)</h1>
   <p>
-    <b>Clash全平台科学上网技术与资源下载 | Windows / macOS / Android / iOS / Linux / OpenWRT</b>
+    <b>客户端、教程与节点入口分类链墙，一页跳转</b>
   </p>
   <p>
     <img src="https://img.shields.io/badge/Update-2026.11-brightgreen.svg" alt="Update">
